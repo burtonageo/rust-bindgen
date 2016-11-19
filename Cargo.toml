@@ -17,6 +17,7 @@ version = "0.17.0"
 clang-sys = "0.8.0"
 clap = "2"
 libbindgen = { path = "libbindgen" }
+libc = "0.2"
 log = "0.3"
 env_logger = "0.3"
 rustc-serialize = "0.3.19"
