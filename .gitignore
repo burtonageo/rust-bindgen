@@ -1,3 +1,7 @@
+bindgen
+libbindgen*
+.DS_Store
+
 # Cargo
 target/
 Cargo.lock
